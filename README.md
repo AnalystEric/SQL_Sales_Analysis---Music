@@ -39,7 +39,6 @@ Utilise SQL to assist a music store in enhancing its business growth by providin
 
 ![Screenshot 2023-07-12 at 20 38 14](https://github.com/AnalystEric/SQL_Sales_Analysis---Music/assets/127030648/e9b80218-5865-4ea7-98fb-6e52350c1159)
 
-
 ### 4.	Who is the best customer? 
 •	The customer who has spent the most money is considered the best customer.
 •	Write a query that returns the full name of the person who has spent the most money.
@@ -60,6 +59,36 @@ Utilise SQL to assist a music store in enhancing its business growth by providin
 ### 7.	Write a query to return the email, first name, last name, and genre of all Rock music listeners.
 •	Return your list ordered alphabetically by email, starting with 'A'.
 
-![Screenshot 2023-07-12 at 20 42 38](https://github.com/AnalystEric/SQL_Sales_Analysis---Music/assets/127030648/6259c707-fddc-448b-aa91-c3c39a41faf0)
+![Screenshot 2023-07-12 at 20 55 50](https://github.com/AnalystEric/SQL_Sales_Analysis---Music/assets/127030648/56c49c5a-b09b-429f-86f8-c9b78b2caaec)
+
+
+### 8.	We would like to invite artists who have written the most rock music in our dataset.
+•	Write a query that returns the Artist name and total track count of the top 10 rock bands.
+
+![Screenshot 2023-07-12 at 20 45 09](https://github.com/AnalystEric/SQL_Sales_Analysis---Music/assets/127030648/3dc8733d-fed7-4e1a-955c-eef714e0eb4d)
+
+### 9.	Return all the track names that have a song length longer than the average song length.
+•	Return the Name and Milliseconds for each track. Order by the song length, with the longest song listed first.
+
+
+
+### 10.	 Find how much amount is spent by each customer on the best-selling artists.
+•	Write a query to return the customer’s name, artist name, and total amount spent.
+
+
+### 11.	We would like to find out the most popular music genre for each country.
+•	We define the most popular genre as the genre with the highest number of purchases.
+•	Write a query that retrieves each country along with the top genre.
+•	In cases where multiple genres share the maximum number of purchases, include all of them.
+
+![Screenshot 2023-07-12 at 20 51 18](https://github.com/AnalystEric/SQL_Sales_Analysis---Music/assets/127030648/7634b980-2040-476b-8b5e-f4b2c48b8711)
+
+### 12.	Write a query that retrieves the customer spending the most on music for each country and returns the country, the top customer, the genre, and the amount they spent.
+•	In cases where multiple customers share the highest amount spent, include all of them.
+
+![Screenshot 2023-07-12 at 20 53 09](https://github.com/AnalystEric/SQL_Sales_Analysis---Music/assets/127030648/11408a5f-430b-4e9a-bcf1-c945535b580a)
+
+
+
 
 
