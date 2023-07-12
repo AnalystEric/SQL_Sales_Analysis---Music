@@ -70,11 +70,13 @@ Utilise SQL to assist a music store in enhancing its business growth by providin
 ### 9.	Return all the track names that have a song length longer than the average song length.
 •	Return the Name and Milliseconds for each track. Order by the song length, with the longest song listed first.
 
+![Screenshot 2023-07-12 at 20 58 42](https://github.com/AnalystEric/SQL_Sales_Analysis---Music/assets/127030648/6ecf4cf3-f513-4ccc-9c3d-aef258bc5947)
 
 
 ### 10.	 Find how much amount is spent by each customer on the best-selling artists.
 •	Write a query to return the customer’s name, artist name, and total amount spent.
 
+![Screenshot 2023-07-12 at 20 58 14](https://github.com/AnalystEric/SQL_Sales_Analysis---Music/assets/127030648/68f118c2-e5de-49fa-b2fd-a298a4f62428)
 
 ### 11.	We would like to find out the most popular music genre for each country.
 •	We define the most popular genre as the genre with the highest number of purchases.
@@ -86,7 +88,7 @@ Utilise SQL to assist a music store in enhancing its business growth by providin
 ### 12.	Write a query that retrieves the customer spending the most on music for each country and returns the country, the top customer, the genre, and the amount they spent.
 •	In cases where multiple customers share the highest amount spent, include all of them.
 
-![Screenshot 2023-07-12 at 20 53 09](https://github.com/AnalystEric/SQL_Sales_Analysis---Music/assets/127030648/11408a5f-430b-4e9a-bcf1-c945535b580a)
+![Screenshot 2023-07-12 at 20 57 11](https://github.com/AnalystEric/SQL_Sales_Analysis---Music/assets/127030648/c60ae047-d98d-4315-8c52-bb9303fcde27)
 
 
 
