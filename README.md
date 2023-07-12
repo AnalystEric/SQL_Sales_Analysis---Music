@@ -10,6 +10,7 @@ Utilise SQL to assist a music store in enhancing its business growth by providin
 * Group by
 * Order by
 * Limit
+* Distinct
 * Round
 * Concat
 * Change datatype
