@@ -1,6 +1,6 @@
 # <p align="center">Music Store Sales Analysis</p> 
 # Project Overview
-Utilise SQL to assist a music store in enhancing its business growth by providing answers to various questions.
+Utilise SQL to assist a music store in enhancing its business growth by performing a music store sales analysis.
 
 # SQL skills used in this project
 * Windows Functions
