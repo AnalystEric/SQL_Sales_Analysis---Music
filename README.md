@@ -48,14 +48,14 @@ Utilise SQL to assist a music store in enhancing its business growth by performi
 ![Screenshot 2023-07-12 at 20 39 18](https://github.com/AnalystEric/SQL_Sales_Analysis---Music/assets/127030648/80071b70-8fc0-4325-acb1-1ad75f02b793)
 
 ### 5. Which city has the best customers?
-•	We would like to host a promotional Music Festival in the city where we have the highest profit.
-•	Write a query that returns only one city with the highest sum of invoice totals.
+•	We would like to host a promotional Music Festival in the city where we have the highest profit.\
+•	Write a query that returns only one city with the highest sum of invoice totals.\
 •	Return both the city name and the sum of all invoice total.
 
 ![Screenshot 2023-07-12 at 20 40 14](https://github.com/AnalystEric/SQL_Sales_Analysis---Music/assets/127030648/bf50d786-f3f8-44d9-8e1d-0ce12645d921)
 
 ### 6. Write a query to retrieve customers who have spent more than 100.
-•	The result should display the customers' full names along with the amount of money they spent in descending order.
+•	The result should display the customers' full names along with the amount of money they spent in descending order.\
 ![Screenshot 2023-07-12 at 20 40 59](https://github.com/AnalystEric/SQL_Sales_Analysis---Music/assets/127030648/7f263618-e0cd-4a05-be1b-a3591598766f)
 
 ### 7. Write a query to return the email, first name, last name, and genre of all Rock music listeners.
@@ -88,7 +88,9 @@ Utilise SQL to assist a music store in enhancing its business growth by performi
 
 ### 12. We would like to find out the most popular music genre for each country.
 •	We define the most popular genre as the genre with the highest number of purchases.
+
 •	Write a query that retrieves each country along with the top genre.
+
 •	In cases where multiple genres share the maximum number of purchases, include all of them.
 
 ![Screenshot 2023-07-12 at 20 51 18](https://github.com/AnalystEric/SQL_Sales_Analysis---Music/assets/127030648/7634b980-2040-476b-8b5e-f4b2c48b8711)
